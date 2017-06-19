@@ -1,3 +1,7 @@
 # rsocket-example
 
-To start example just invoke: sbt run
+To start example just invoke: 
+
+```bash
+sbt run
+```
